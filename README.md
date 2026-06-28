@@ -1,7 +1,7 @@
-# TechCare System
+# Techcare System
 
 ## Nombre del proyecto
-Sistema TechCare - Sistema Integral de Supervisión y Regulación Tecnológica
+Techcare Systems - Sistema Integral de Supervisión y Regulación Tecnológica
 
 ## Nombre del estudiante
 Zandra Mareva Romero Villacis
